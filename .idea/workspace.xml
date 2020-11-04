@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fabb0bf0-07b4-48c0-9bae-b27b62a66374" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_overlay.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jneA0dlo4PoaAqo2dqG7UolkDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/css/video" />
+      <recent name="$PROJECT_DIR$/assets/css/blocks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabb0bf0-07b4-48c0-9bae-b27b62a66374" name="Default Changelist" comment="" />
+      <created>1604444137381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604444137381</updated>
+      <workItem from="1604444139745" duration="7038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="5476" y="859" width="469" height="463" key="#Web_Browsers" timestamp="1604445450080">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5476" y="859" width="469" height="463" key="#Web_Browsers/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604445450080" />
+    <state x="5358" y="856" width="714" height="469" key="EditFileWatcherDialog" timestamp="1604444869390">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5358" y="856" width="714" height="469" key="EditFileWatcherDialog/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604444869390" />
+    <state x="5492" y="848" width="426" height="484" key="FileChooserDialogImpl" timestamp="1604445417029">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5492" y="848" width="426" height="484" key="FileChooserDialogImpl/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604445417029" />
+    <state x="5208" y="727" key="SettingsEditor" timestamp="1604445707646">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5208" y="727" key="SettingsEditor/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604445707646" />
+  </component>
+</project>
