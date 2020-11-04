@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fabb0bf0-07b4-48c0-9bae-b27b62a66374" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_overlay.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_video.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/video/weatherleaf.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604444137381</updated>
-      <workItem from="1604444139745" duration="7038000" />
+      <workItem from="1604444139745" duration="7478000" />
     </task>
     <servers />
   </component>
