@@ -15,7 +15,8 @@ body {
 
 /* Blocks */
 @import "./blocks/page";
+@import "./blocks/header";
+@import "./blocks/main";
+@import "./blocks/footer";
 @import "./blocks/video";
 @import "./blocks/overlay";
-@import "./blocks/header";
-@import "./blocks/footer";
