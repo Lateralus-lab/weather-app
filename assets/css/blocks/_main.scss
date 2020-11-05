@@ -1,0 +1,12 @@
+.main__title {
+  margin-bottom: 30px;
+
+  font-size: 4rem;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+  text-align: center;
+
+  @media (max-width: $breakpoint_md) {
+    font-size: 3rem;
+  }
+}

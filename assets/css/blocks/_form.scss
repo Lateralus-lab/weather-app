@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @media (max-width: $breakpoint_md) {
+    margin: 0 auto;
+    flex-direction: column;
+    max-width: 450px;
+  }
+}
