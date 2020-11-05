@@ -20,13 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fabb0bf0-07b4-48c0-9bae-b27b62a66374" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_btn.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_input.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_logo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_city.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_msg.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_result.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/blocks/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/blocks/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/blocks/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
@@ -41,6 +41,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jneA0dlo4PoaAqo2dqG7UolkDk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,6 +95,10 @@
       <screen x="2880" y="0" width="3840" height="2160" />
     </state>
     <state x="5476" y="859" width="469" height="463" key="#Web_Browsers/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604445450080" />
+    <state x="5428" y="886" width="562" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604594800322">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5428" y="886" width="562" height="410" key="#com.intellij.fileTypes.FileTypeChooser/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604594800322" />
     <state x="5493" y="918" width="427" height="343" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604452161240">
       <screen x="2880" y="0" width="3840" height="2160" />
     </state>

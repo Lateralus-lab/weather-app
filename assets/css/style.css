@@ -4,6 +4,8 @@ body {
   font-size: 16px;
   line-height: 1.3;
   color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 *,
@@ -17,6 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ul {
+  padding: 0;
   list-style: none;
 }
 
@@ -30,7 +33,7 @@ img {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  overflow: hidden;
+  overflow: auto;
   position: relative;
   z-index: 2;
 }
@@ -66,6 +69,10 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  max-width: 580px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
 }
 @media (max-width: 720px) {
   .form {
@@ -120,8 +127,107 @@ img {
   }
 }
 
+.msg {
+  max-width: 450px;
+  width: 100%;
+  min-height: 35px;
+  font-size: 0.8rem;
+  position: absolute;
+  bottom: -40px;
+  left: 0;
+}
+
+.result {
+  margin: 70px 0 20px;
+}
+
+.city {
+  display: grid;
+  grid-gap: 32px 20px;
+  grid-template-columns: repeat(4, 1fr);
+}
+@media (max-width: 960px) {
+  .city {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 720px) {
+  .city {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 540px) {
+  .city {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.city__item {
+  padding: 40px 10%;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  color: #fff;
+  transition: background 0.2s linear;
+}
+.city__item:hover {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+
+.city__name {
+  margin-bottom: 10px;
+}
+
+.city__name-country {
+  padding: 0.2em 0.6em;
+  background: #ff8c00;
+  border-radius: 30px;
+  font-size: 0.5em;
+  color: #fff;
+}
+
+.city__temp {
+  margin-bottom: 10px;
+  font-size: 5rem;
+}
+
+.city__temp-deg {
+  font-size: 0.3em;
+}
+
+.city__figure {
+  margin: 0;
+  padding: 0;
+}
+
+.city__icon {
+  margin-bottom: 18px;
+  width: 80px;
+  height: 80px;
+}
+
+.city__figcaption {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #dee0e3;
+}
+
 .footer {
   margin-top: auto;
+}
+
+.footer__copy {
+  padding: 30px 50px;
+  color: #fff;
+  text-align: center;
+}
+
+.footer__link {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+.footer__link:hover {
+  text-decoration: underline;
 }
 
 .video {
