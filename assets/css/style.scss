@@ -5,6 +5,8 @@ body {
   font-size: 16px;
   line-height: 1.3;
   color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 *,
@@ -18,6 +20,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 ul {
+  padding: 0;
+
   list-style: none;
 }
 
@@ -41,6 +45,9 @@ $breakpoint_sm: 540px;
 @import "./blocks/form";
 @import "./blocks/input";
 @import "./blocks/btn";
+@import "./blocks/msg";
+@import "./blocks/result";
+@import "./blocks/city";
 @import "./blocks/footer";
 @import "./blocks/video";
 @import "./blocks/overlay";

@@ -1,3 +1,20 @@
 .footer {
   margin-top: auto;
 }
+
+.footer__copy {
+  padding: 30px 50px;
+
+  color: #fff;
+  text-align: center;
+}
+
+.footer__link {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
