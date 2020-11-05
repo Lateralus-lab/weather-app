@@ -13,10 +13,35 @@ body {
   box-sizing: border-box;
 }
 
-/* Blocks */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+// Media
+$breakpoint_lg: 960px;
+$breakpoint_md: 720px;
+$breakpoint_sm: 540px;
+
+// Blocks
 @import "./blocks/page";
+@import "./blocks/container";
 @import "./blocks/header";
+@import "./blocks/logo";
 @import "./blocks/main";
+@import "./blocks/form";
+@import "./blocks/input";
+@import "./blocks/btn";
 @import "./blocks/footer";
 @import "./blocks/video";
 @import "./blocks/overlay";
+

@@ -1,0 +1,25 @@
+.input {
+  height: 40px;
+
+  background: none;
+  border: 0;
+  border-bottom: 1px solid #fff;
+  outline: 0;
+
+  font-size: 2rem;
+  color: #fff;
+
+  &::placeholder {
+    color: #bbbbbb;
+  }
+
+  &:focus {
+    border-bottom: 2px solid #fff;
+  }
+
+  @media (max-width: $breakpoint_md) {
+    max-width: 450px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
