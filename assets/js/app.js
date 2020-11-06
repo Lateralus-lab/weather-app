@@ -3,7 +3,7 @@ const input = document.querySelector('.input');
 const msg = document.querySelector('.msg');
 const list = document.querySelector('.city');
 
-const apiKey = 'd81d344e6c78605f3a41e3db81554b19';
+const apiKey = 'Your Api';
 
 form.addEventListener('submit', e => {
   e.preventDefault();
