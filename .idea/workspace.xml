@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fabb0bf0-07b4-48c0-9bae-b27b62a66374" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_city.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_msg.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/blocks/_result.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/blocks/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/blocks/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/blocks/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/blocks/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +64,7 @@
       <updated>1604444137381</updated>
       <workItem from="1604444139745" duration="8762000" />
       <workItem from="1604583018539" duration="7192000" />
+      <workItem from="1604677678479" duration="5533000" />
     </task>
     <servers />
   </component>
@@ -91,6 +84,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="5405" y="752" key="#JavaScript" timestamp="1604681155634">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5405" y="752" key="#JavaScript/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604681155634" />
     <state x="5476" y="859" width="469" height="463" key="#Web_Browsers" timestamp="1604445450080">
       <screen x="2880" y="0" width="3840" height="2160" />
     </state>
@@ -119,9 +116,9 @@
       <screen x="2880" y="0" width="3840" height="2160" />
     </state>
     <state x="5208" y="727" key="SettingsEditor/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604445707646" />
-    <state x="5377" y="530" key="search.everywhere.popup" timestamp="1604584944753">
+    <state x="5377" y="530" key="search.everywhere.popup" timestamp="1604678269759">
       <screen x="2880" y="0" width="3840" height="2160" />
     </state>
-    <state x="5377" y="530" key="search.everywhere.popup/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604584944753" />
+    <state x="5377" y="530" key="search.everywhere.popup/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1604678269759" />
   </component>
 </project>
