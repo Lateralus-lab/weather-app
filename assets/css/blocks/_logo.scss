@@ -4,4 +4,9 @@
   font-size: 2rem;
   font-weight: 700;
   letter-spacing: 0.02em;
+
+  @media (max-width: $breakpoint_sm) {
+    font-size: 1.5rem;
+    text-align: center;
+  }
 }

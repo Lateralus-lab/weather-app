@@ -7,6 +7,10 @@
 
   color: #fff;
   text-align: center;
+
+  @media (max-width: $breakpoint_sm) {
+    font-size: .8rem;
+  }
 }
 
 .footer__link {

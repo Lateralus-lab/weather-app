@@ -22,4 +22,8 @@
     width: 100%;
     margin-bottom: 20px;
   }
+
+  @media (max-width: $breakpoint_sm) {
+    font-size: 1.5rem;
+  }
 }

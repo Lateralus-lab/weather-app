@@ -51,6 +51,12 @@ img {
   font-weight: 700;
   letter-spacing: 0.02em;
 }
+@media (max-width: 540px) {
+  .logo {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+}
 
 .main__title {
   margin-bottom: 30px;
@@ -62,6 +68,11 @@ img {
 @media (max-width: 720px) {
   .main__title {
     font-size: 3rem;
+  }
+}
+@media (max-width: 540px) {
+  .main__title {
+    font-size: 2.5rem;
   }
 }
 
@@ -102,6 +113,11 @@ img {
     max-width: 450px;
     width: 100%;
     margin-bottom: 20px;
+  }
+}
+@media (max-width: 540px) {
+  .input {
+    font-size: 1.5rem;
   }
 }
 
@@ -219,6 +235,11 @@ img {
   padding: 30px 50px;
   color: #fff;
   text-align: center;
+}
+@media (max-width: 540px) {
+  .footer__copy {
+    font-size: 0.8rem;
+  }
 }
 
 .footer__link {
